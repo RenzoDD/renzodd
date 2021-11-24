@@ -9,21 +9,23 @@ My name is Renzo Diaz and I am a senior college student. I am interested in soft
 
 I am also a programming coach for freshman students and I believe that it is important that we all learn to code because it helps us to be more rational and to solve problems in our daily life. I just hope that one day I can help more people learn to program and create their own solutions to help their communities.
 
+> [📄 Download PDF](https://www.remadi.net/assets/docs/Resume%20-%20Renzo%20Diaz.pdf)
+
 ## Portfolio 💼
 
-[🔗](https://www.youtube.com/c/CodingAcademyPer%C3%BA) Coding Academy Perú
+🔗 [Coding Academy Perú](https://www.youtube.com/c/CodingAcademyPer%C3%BA)
 
-[🔗](https://www.digifaucet.org/) DigiFaucet - The Best DigiByte Faucet
+🔗 [DigiFaucet - The Best DigiByte Faucet](https://www.digifaucet.org/)
 
-[🔗](https://digiassets.network/) DigiAssets Network Explorer
+🔗 [DigiAssets Network Explorer](https://digiassets.network/)
 
-[🔗](https://github.com/RenzoDD/assembler-simulator) 8-bit and 16-bit Assembler Simulator
+🔗 [8-bit and 16-bit Assembler Simulator](https://github.com/RenzoDD/assembler-simulator)
 
-[🔗](https://github.com/RenzoDD/coding-studio) Coding Studio IDE
+🔗 [Coding Studio IDE](https://github.com/RenzoDD/coding-studio)
 
-[🔗](https://github.com/RenzoDD/codegram) Codegram UML
+🔗 [Codegram UML](https://github.com/RenzoDD/codegram)
 
-[🔗](https://github.com/RenzoDD/file-cloud) File Cloud Storage
+🔗 [File Cloud Storage](https://github.com/RenzoDD/file-cloud)
 
 ## Skills 💫
 
